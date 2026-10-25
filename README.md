@@ -1,6 +1,6 @@
 # Samyak Jain - Data Analytics Portfolio
 
-🚀 Senior Data Analyst | Business Intelligence Professional | Analytics Enthusiast
+ Senior Data Analyst | Business Intelligence Professional | Analytics Enthusiast
 
 Welcome to my portfolio showcasing analytics, business intelligence, and data-driven solutions built using Power BI, Tableau, Domo, SQL, and Python.
 
@@ -27,7 +27,7 @@ Senior Data Analyst with 5+ years of experience delivering enterprise analytics 
 Power BI solution for monitoring sales performance, revenue growth, profitability, and customer trends.
 
 ### Marketing Performance Analytics
-Campaign performance dashboard measuring ROI, ROAS, conversion rates, and marketing effectiveness.
+Campaign performance dashboard measuring ROI,conversion rates, and marketing effectiveness.
 
 ### Customer Segmentation Analysis
 RFM analysis and customer behavior insights to support retention and growth strategies.
