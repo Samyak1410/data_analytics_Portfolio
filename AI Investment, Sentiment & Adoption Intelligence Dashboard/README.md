@@ -1,5 +1,10 @@
 #  AI Adoption & Sentiment Analytics Dashboard
 
+## Dashboard Screenshot
+
+<img width="899" height="599" alt="image" src="https://github.com/user-attachments/assets/0533d926-dcb4-47ac-9218-f9b4eb60536c" />
+
+
 ## 📌 Project Overview
 
 The AI Adoption & Sentiment Analytics Dashboard is an interactive Power BI solution designed to monitor artificial intelligence adoption trends, investment patterns, business outcomes, and organizational sentiment across industries and regions.
