@@ -3,6 +3,8 @@
 ##  Dashboard Screenshot
 <img width="797" height="433" alt="image" src="https://github.com/user-attachments/assets/53503afa-03e6-4b69-ba00-c544dfc5515f" />
 
+**Please refer to the "Powerbi" Folder to see other pages of the dashboard.
+
 
 ##  Project Overview
 This project analyzes website performance data to track user engagement, traffic trends, conversions, and device behavior. The dashboard helps stakeholders understand website effectiveness and identify opportunities to improve user experience and business outcomes.
