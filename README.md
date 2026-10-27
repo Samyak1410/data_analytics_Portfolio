@@ -10,15 +10,16 @@ Senior Data Analyst with 5+ years of experience delivering enterprise analytics 
 
 ## Technical Skills
 
-Data Engineering & Modelling: SQL, Data Modelling, ETL/ELT, Data Transformation, Automated Dataflows, Tableau Prep, 
-Power Query
-Business Intelligence & Analytics: Power BI, Tableau, Domo, DAX, Beast Mode, KPI Design, Dashboard Development, Data 
-Visualization
+Data Engineering & Modelling: SQL, Data Modelling, ETL/ELT, Data Transformation, Automated Dataflows, Tableau Prep, Power Query
+
+Business Intelligence & Analytics: Power BI, Tableau, Domo, DAX, Beast Mode, KPI Design, Dashboard Development, Data Visualization
+
 Marketing & Digital Analytics: Adobe Analytics, Google Search Console, Google Ads, Facebook Ads, Datorama
 AI & Automation: Generative AI, Prompt Engineering, AI-Assisted Analytics, Reporting Automation, Power BI Q&A, 
 Decomposition Trees
-Business & Consulting: Requirements Gathering, Stakeholder Management, Business Acumen, Data Storytelling, Critical 
-Thinking, Problem Solving, Cross-functional Collaboration
+
+Business & Consulting: Requirements Gathering, Stakeholder Management, Business Acumen, Data Storytelling, Critical Thinking, Problem Solving, Cross-functional Collaboration
+
 Project & Collaboration Tools: Jira, Microsoft Excel, Microsoft PowerPoint
 
 ## Featured Projects
