@@ -23,20 +23,19 @@ Senior Data Analyst with 5+ years of experience delivering enterprise analytics 
 
 ## Featured Projects
 
-### Executive Sales Dashboard
-Power BI solution for monitoring sales performance, revenue growth, profitability, and customer trends.
+### 📈 Website Performance Analytics Dashboard
+Power BI dashboard designed to monitor website traffic, user engagement, conversion rates, bounce rates, and overall digital performance. Features KPI tracking, trend analysis, and actionable insights to optimize online user experience.
 
-### Marketing Performance Analytics
-Campaign performance dashboard measuring ROI,conversion rates, and marketing effectiveness.
+### 🤖 AI Adoption & Sentiment Analytics Dashboard
+Interactive dashboard analyzing AI adoption trends, investment budgets, ROI performance, and stakeholder sentiment across industries and regions. Helps organizations evaluate AI transformation success and identify adoption opportunities.
 
-### Customer Segmentation Analysis
-RFM analysis and customer behavior insights to support retention and growth strategies.
+### 💃 Dance Diversity Dashboard: Mapping India's Rhythm Across States
+A cultural analytics dashboard exploring traditional Indian dance forms, festival participation, audience engagement, and state-wise diversity. Provides insights into participation trends and regional representation of India's performing arts.
 
-### SQL Business Case Studies
-Real-world SQL analyses focused on sales, customer, and operational performance.
+### 📋 Agency Pulse Survey Dashboard
+Survey analytics solution designed to measure stakeholder satisfaction, partnership effectiveness, leadership performance, and operational excellence. Includes KPI benchmarking, regional comparison, sentiment analysis, and qualitative feedback insights.
 
-### Data Engineering Pipeline
-End-to-end ETL solution demonstrating data extraction, transformation, and visualization.
+``
 
 ## Certifications
 
