@@ -1,5 +1,11 @@
 #  Dance Diversity Dashboard: Mapping India's Rhythm Across States
 
+## Dashboard Screenshot
+
+<img width="899" height="599" alt="image" src="https://github.com/user-attachments/assets/7273b30b-aafe-4f70-9482-21c79e09ce70" />
+
+
+
 ## 📌 Project Overview
 
 The Dance Diversity Dashboard is an interactive Power BI report designed to explore the richness of India's cultural heritage through traditional dance forms, festival participation, and audience engagement across states.
