@@ -24,16 +24,16 @@ Project & Collaboration Tools: Jira, Microsoft Excel, Microsoft PowerPoint
 
 ## Featured Projects
 
-### 📈 Website Performance Analytics Dashboard
+###  Website Performance Analytics Dashboard
 Power BI dashboard designed to monitor website traffic, user engagement, conversion rates, bounce rates, and overall digital performance. Features KPI tracking, trend analysis, and actionable insights to optimize online user experience.
 
-### 🤖 AI Adoption & Sentiment Analytics Dashboard
+###  AI Adoption & Sentiment Analytics Dashboard
 Interactive dashboard analyzing AI adoption trends, investment budgets, ROI performance, and stakeholder sentiment across industries and regions. Helps organizations evaluate AI transformation success and identify adoption opportunities.
 
-### 💃 Dance Diversity Dashboard: Mapping India's Rhythm Across States
+###  Dance Diversity Dashboard: Mapping India's Rhythm Across States
 A cultural analytics dashboard exploring traditional Indian dance forms, festival participation, audience engagement, and state-wise diversity. Provides insights into participation trends and regional representation of India's performing arts.
 
-### 📋 Agency Pulse Survey Dashboard
+###  Agency Pulse Survey Dashboard
 Survey analytics solution designed to measure stakeholder satisfaction, partnership effectiveness, leadership performance, and operational excellence. Includes KPI benchmarking, regional comparison, sentiment analysis, and qualitative feedback insights.
 
 ``
